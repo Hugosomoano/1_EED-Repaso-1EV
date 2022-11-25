@@ -1,0 +1,6 @@
+Analisis
+Diseño
+Implementacion
+Pruebas
+Instalacion
+Uso y mantenimiento
